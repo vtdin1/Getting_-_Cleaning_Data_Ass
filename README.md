@@ -26,3 +26,23 @@ a. Concatenate the data tables by rows
 b. Set names
 
 c. Merge columns
+
+### 4. Extract only the mean and standard deviation for each measurement
+
+a. Subset Name of Features on the mean and standard deviation
+
+b. Subset the data frame Data by selected names of Features
+
+c. Check the structures of the data frame
+
+### 5. Rename the activity names in the data set
+
+a. View the activity names from “activity_labels.txt”
+
+b. Factorise variable activity in the data frame using descriptive activity names
+
+c. View the activity names
+
+d. Rename data set with descriptive variable names
+
+e. View the new activity names
