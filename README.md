@@ -1,2 +1,2 @@
-# Getting_Cleaning_Data_Assignment
-1. Get the data
+# Getting and Cleaning Data Assignment
+## 1. Get the data
