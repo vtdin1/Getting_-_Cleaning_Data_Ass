@@ -46,3 +46,5 @@ c. View the activity names
 d. Rename data set with descriptive variable names
 
 e. View the new activity names
+
+### 6. Create an independent tidy data set and ouput it.
