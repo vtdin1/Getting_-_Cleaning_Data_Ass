@@ -11,7 +11,7 @@ d. Viewed the list of files.
 
 ### 2. View and check the properties of the data.
 
-a. View the following files
+a. View & check the following files
 
 i. Activity;
 
